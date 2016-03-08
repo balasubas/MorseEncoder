@@ -1,0 +1,49 @@
+body {     
+	background-color: #cccccc;
+	background-image: url('pics/morse_pic.jpg');    
+    background-size:contain;
+}
+
+h3 {
+	color: #B80000 ;
+}
+
+h2 {
+	color: #B80000 ;
+}
+
+p {
+	color: #B80000 ;
+}
+
+input{
+	color: #B80000 ;
+}
+
+form {
+	color: #B80000 ;
+}
+
+a {
+	color: #B80000 ;
+	font-size: 30pt;
+    font-family: Arial;
+    margin-left: 250px;
+}
+
+textarea {
+	background-color: #F0F0F0;
+	width:650px; 
+	height: 250px;
+    resize: none; 
+	border-radius: 6px;
+	outline: none;
+	font-size: 12pt;
+    font-family: Arial;
+}
+
+fieldset{
+	background-color: #F0F0F0;
+    margin-left: 250px;
+}
+
